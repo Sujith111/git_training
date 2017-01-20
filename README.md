@@ -1,2 +1,2 @@
 # git_training
-Training 
+Training session for GIT.
